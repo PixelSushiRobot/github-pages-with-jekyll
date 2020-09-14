@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to PixelSushiRobot
 
-I'm glad you are here. I plan to talk about ...
+Hi, do you like 🔶 Design, 🍣 Food, or 🤖 Technology?
